@@ -1,0 +1,15 @@
+DATA LOG
+******************************
+Customer Name: mark
+Product: Restonic Barbados
+VAT: R 60.0
+COMMISSION: R 20.0
+TOTAL: R 480.0
+******************************
+******************************
+Customer Name: Xiluva
+Product: Cozy Nights Monarch
+VAT: R 68.25
+COMMISSION: R 22.75
+TOTAL: R 546.0
+******************************
